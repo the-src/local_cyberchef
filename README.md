@@ -13,5 +13,4 @@ sudo ./cyberchef.sh
 Please note that you need root privileges to run this script.
 
 **Requirements:**
-xdg-utils
-python3
+xdg-utils, python3
