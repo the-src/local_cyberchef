@@ -7,8 +7,14 @@ xdg-utils, python3
 <h3>Installation</h3>
 ```
 git clone https://github.com/the-src/local_cyberchef.git
+```
+```
 cd local_cyberchef
+```
+```
 chmod +x cyberchef.sh
+```
+```
 sudo ./cyberchef.sh
 ```
 
