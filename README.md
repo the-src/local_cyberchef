@@ -19,9 +19,8 @@ sudo ./cyberchef.sh
 ```
 
 <h3>Usage after installation</h3>
-```
-sudo cyberchef
-```
+
+<input type=”sudo cyberchef”/>
 
 <h3>Wiki</h3>
 This is a bash script for opening CyberChef in your local computer.
