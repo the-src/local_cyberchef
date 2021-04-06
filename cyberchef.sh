@@ -41,7 +41,7 @@ python3 -m http.server -b 127.0.0.1 80 & &> /dev/null
 serverid="$!"
 sudo -u ${SUDO_USER} xdg-open http://cyberchef & &> /dev/null
 while :; do
-    echo -e "${yellow} $serverid / $browserid
+    echo -e "${cyan}
   ______                _ __                              ________________  __    ______
  /_  __/___  ___  _  __(_) /_  ____  ________  __________/ ____/_  __/ __ \/ /   / ____/
   / / / __ \/ _ \| |/_/ / __/ / __ \/ ___/ _ \/ ___/ ___/ /     / / / /_/ / /   / /     
