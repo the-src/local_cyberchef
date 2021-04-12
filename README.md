@@ -46,4 +46,7 @@ The tool is designed to enable both technical and non-technical analysts to mani
 <h3>Additional Notes</h3>
 Please note that you need root privileges to run this script.
 
+<h2>Our socials</h2>
+https://discord.io/hack-ware
+
 
