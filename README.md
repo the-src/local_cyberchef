@@ -47,6 +47,6 @@ The tool is designed to enable both technical and non-technical analysts to mani
 Please note that you need root privileges to run this script.
 
 <h2>Our socials</h2>
-https://discord.io/hack-ware
+https://discord.io/soft-sec
 
 
